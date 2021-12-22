@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/searemind/searemind.github.io/main/icon.png" />
 </p>
 
-[Download](https://github.com/searemind/searemind.github.io/raw/main/TinyPySQL-v1.apk)
+> [**Download**](https://github.com/searemind/searemind.github.io/raw/main/TinyPySQL.apk)
 
 **TinyPySQL** provides an easy and quick way to test your `Python` programming ([RustPython](https://github.com/RustPython/RustPython)) and `SQL` ([Dolt](https://github.com/dolthub/dolt)) skills on your Android ARM device. 
 
