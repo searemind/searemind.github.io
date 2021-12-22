@@ -1,7 +1,9 @@
 ## TinyPySQL
 ![Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/GPL_v3_Blue_Badge.svg/100px-GPL_v3_Blue_Badge.svg.png) 
 
-![Icon](https://raw.githubusercontent.com/searemind/searemind.github.io/main/icon.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/searemind/searemind.github.io/main/appicon.png" />
+</p>
 
 [Download](https://github.com/searemind/searemind.github.io/raw/main/TinyPySQL-v1.apk)
 
@@ -9,11 +11,8 @@
 
 ### Features
 + Native `RustPython` interpreter **without** `ssl` support.
-![Icon](https://raw.githubusercontent.com/RustPython/RustPython/main/logo.png)
 + `Dolt SQL` as an alternative for *MySQL*.
-![Icon](https://github.com/dolthub/dolt/raw/main/docs/Dolt-Logo@3x.svg)
 + A fully featured [`SQLite3`](https://sqlite.org) CLI as an added bonus.
-![Icon](https://raw.githubusercontent.com/sqlite/sqlite/master/art/sqlite370.jpg)
 + A barebones `Git` implementation built using [*libgit2*](https://github.com/libgit2/libgit2).
 + A terminal text editor ([`tte`](https://github.com/GrenderG/tte)).
 + [`rsget`](https://github.com/otavio/rsget), a simple Command Line download utility.
