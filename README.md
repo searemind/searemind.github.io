@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/searemind/searemind.github.io/main/haskell_icon.png" />
 </p>
 
-> [**Download**](https://github.com/searemind/searemind.github.io/raw/main/Haskell.apk)
+> [**Download**](https://github.com/searemind/searemind.github.io/raw/main/Haskell-v1b.apk)
 
 **droidHaskell** provides an easy and quick way to test your `Haskell` programming skills on your Android ARM device. 
 
