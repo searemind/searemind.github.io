@@ -25,3 +25,7 @@ For more details about Haskell, visit [The Haskell Website](https://www.haskell.
 #### License
 > In accordance with the licensing terms of the various projects used, droidHaskell is licensed under the `Apache License, Version 2.0` as has been stated in the [`LICENSE`](https://github.com/searemind/searemind.github.io/blob/main/LICENSE). 
 ![Icon](https://raw.githubusercontent.com/searemind/searemind.github.io/main/apache2.ico) 
+
+---
+
+P.S. Check out my new app [**TinyLang**](https://github.com/searemind/searemind.github.io/raw/main/TinyLang-v4b.apk)
