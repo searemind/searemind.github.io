@@ -28,4 +28,4 @@ For more details about Haskell, visit [The Haskell Website](https://www.haskell.
 
 ---
 
-P.S. Check out my new app [**TinyLang**](https://github.com/searemind/searemind.github.io/raw/main/TinyLang-v4.2.apk)
+P.S. Check out my new app [**TinyLang**](https://github.com/searemind/searemind.github.io/raw/main/TinyLang-v4.3.apk)
