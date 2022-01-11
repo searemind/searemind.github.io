@@ -27,7 +27,6 @@ For more details about Python, visit [The Python Website](https://www.python.org
 
 #### QuickStart
 
-https://github.com/searemind/searemind.github.io/raw/main/HowTo.mp4
 
 ---
 
