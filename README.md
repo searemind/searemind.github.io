@@ -6,6 +6,8 @@
   <img src="https://raw.githubusercontent.com/searemind/searemind.github.io/main/icon.png" />
 </p>
 
+---
+
 > [**Download**](https://github.com/searemind/searemind.github.io/releases/download/v1.0/Sequel-v1.0.apk)
 
 **Sequel** provides an easy and quick way to test your `Python` programming and `SQL` skills on your Android ARM device. 
@@ -20,6 +22,12 @@
 + Sequel is built upon the [`Android-Terminal-Emulator`](https://github.com/jackpal/Android-Terminal-Emulator).
 
 For more details about Python, visit [The Python Website](https://www.python.org).
+
+---
+
+#### QuickStart
+
+https://github.com/searemind/searemind.github.io/raw/main/HowTo.mp4
 
 ---
 
