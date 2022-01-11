@@ -24,8 +24,8 @@ For more details about Python, visit [The Python Website](https://www.python.org
 ---
 
 #### License
-> In accordance with the licensing terms of the various projects used, Sequel is licensed under the `GNU General Public License, Version 3` as has been stated in the [`LICENSE`](https://github.com/searemind/searemind.github.io/blob/main/LICENSE). 
-![Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/GPL_v3_Blue_Badge.svg/320px-GPL_v3_Blue_Badge.svg.png) 
+> In accordance with the licensing terms of the various projects used, Sequel is licensed under the `GNU General Public License, Version 3` as has been stated in the [`LICENSE`](https://github.com/searemind/searemind.github.io/blob/main/LICENSE).   
+![Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/GPL_v3_Blue_Badge.svg/100px-GPL_v3_Blue_Badge.svg.png)  
 
 ---
 
