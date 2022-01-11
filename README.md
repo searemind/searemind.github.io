@@ -1,30 +1,31 @@
-## droidHaskell
+## Sequel
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/searemind/searemind.github.io/main/haskell_icon.png" />
+  <img src="https://raw.githubusercontent.com/searemind/searemind.github.io/main/icon.png" />
 </p>
 
-> [**Download**](https://github.com/searemind/searemind.github.io/raw/main/Haskell-v1b.apk)
+> [**Download**](https://github.com/searemind/searemind.github.io/releases/download/v1.0/Sequel-v1.0.apk)
 
-**droidHaskell** provides an easy and quick way to test your `Haskell` programming skills on your Android ARM device. 
+**Sequel** provides an easy and quick way to test your `Python` programming and `SQL` skills on your Android ARM device. 
 
 ### Features
-+ Native [`Hugs98`](https://www.haskell.org/hugs) interpreter.
++ Native [`Python`](https://github.com/qpython-android/qpython3) interpreter.
++ [`Dolt`](https://github.com/dolthub/dolt) SQL Database 
 + A barebones `Git` implementation built using [*libgit2*](https://github.com/libgit2/libgit2).
-+ A terminal text editor ([`kibi`](https://github.com/ilai-deutel/kibi)).
++ A terminal text editor ([`micro`](https://github.com/zyedidia/micro)).
 + [`wget-go`](https://github.com/miihael/wget-go), a simple Command Line download utility.
-+ [`lftpd`](https://github.com/vonnieda/lftpd), a tiny FTP server to access droidHaskell's filesystem from your phone.
-+ droidHaskell is built upon the [`Android-Terminal-Emulator`](https://github.com/jackpal/Android-Terminal-Emulator).
++ [`lftpd`](https://github.com/vonnieda/lftpd), a tiny FTP server to access Sequel's filesystem from your phone.
++ Sequel is built upon the [`Android-Terminal-Emulator`](https://github.com/jackpal/Android-Terminal-Emulator).
 
-For more details about Haskell, visit [The Haskell Website](https://www.haskell.org).
+For more details about Python, visit [The Python Website](https://www.python.org).
 
 ---
 
 #### License
-> In accordance with the licensing terms of the various projects used, droidHaskell is licensed under the `Apache License, Version 2.0` as has been stated in the [`LICENSE`](https://github.com/searemind/searemind.github.io/blob/main/LICENSE). 
-![Icon](https://raw.githubusercontent.com/searemind/searemind.github.io/main/apache2.ico) 
+> In accordance with the licensing terms of the various projects used, Sequel is licensed under the `GNU General Public License, Version 3` as has been stated in the [`LICENSE`](https://github.com/searemind/searemind.github.io/blob/main/LICENSE). 
+![Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/GPL_v3_Blue_Badge.svg/320px-GPL_v3_Blue_Badge.svg.png) 
 
 ---
 
